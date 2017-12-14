@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("mvtnorm","qmvnorm")
+importFrom("stats","quantile","sd")
+importFrom("sensitivityfull","senfm","mscoref")
+
